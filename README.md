@@ -2,7 +2,7 @@
 
 A self-hosted dashboard that tracks LLM token usage, costs, and rate limits from [OpenClaw](https://github.com/openclaw/openclaw) session logs. Dark-themed, zero-config, single-file Flask app.
 
-![Dashboard screenshot showing token usage charts, cost breakdowns, and rate limit monitoring with a dark GitHub-style theme](https://your-screenshot-url-here)
+![Dashboard screenshot showing token usage charts, cost breakdowns, and rate limit monitoring with a dark GitHub-style theme](https://github.com/user-attachments/assets/48324e86-83e3-486c-8128-4e20a1111e32)
 
 ## Features
 
